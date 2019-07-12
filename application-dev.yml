@@ -21,7 +21,7 @@ spring:
     host: paascloud-db-redis
     port: 6379
     pool:
-      max-active:500
+      max-active: 500
     timeout: 0
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
